@@ -1,0 +1,3 @@
+[submodule "Sub_repo"]
+	path = Sub_repo
+	url = https://github.com/CingHongli/Sub_repo.git
